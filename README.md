@@ -1,4 +1,4 @@
-# shootTheBall
+# ShootTheMeteor
 A Shooting Game by Unity.
 The programming language is  C#.
 
